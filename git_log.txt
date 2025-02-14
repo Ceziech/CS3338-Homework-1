@@ -1,0 +1,60 @@
+commit 610181f7b97ae64bf3bdea4d752dea0b9c38ff23
+Merge: f37cdce 047bb12
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Fri Feb 14 09:11:11 2025 +0500
+
+    Merge pull request #1 from Ceziech/feature-about-me
+    
+    MERGING Feature about me
+
+commit 047bb12d6c21f45ef2428b6c90c42b1c520bfd55
+Merge: b670447 f37cdce
+Author: Ceziech <ceziech@calstatela.edu>
+Date:   Fri Feb 14 09:10:57 2025 +0500
+
+    Merge branch 'main' into feature-about-me
+
+commit b670447a3eafb4e6265b39c48bea799f7959d679
+Author: Thisismygithubpasswordforfatim <ceziech@calstatela.edu>
+Date:   Fri Feb 14 08:59:52 2025 +0500
+
+    Updated index.html with personal details
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
